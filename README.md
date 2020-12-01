@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more open source projects.
 - ⚡ Fun fact: I used to be a Roller Derby player.
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pauldub&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)]()
+[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pauldub&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/pauldub)
