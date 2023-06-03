@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pauldub&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/pauldub)
 
-<a rel="me" href="https://ruby.social/@pauldub">Mastodon</a>
