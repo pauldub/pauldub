@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Ruby, Go, Rust and clojure projects.
-- 🌱 I’m currently learning nix.
+- 🔭 I’m currently working on Ruby, Go, Rust and Haskell projects.
 - 👯 I’m looking to collaborate on more open source projects.
-- ⚡ Fun fact: I used to be a Roller Derby player.
 
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pauldub&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/pauldub)
+
+<a rel="me" href="https://ruby.social/@pauldub">Mastodon</a>
